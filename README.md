@@ -28,7 +28,7 @@ This project focused on turning a fresh Ubuntu VM into a **working, secured serv
 
 ---
 
-## 🌐 Step 1: — Install & Configure Apache Web Server
+## 🌐 Step 1: Install & Configure Apache Web Server
 ### ✅ Steps Completed
 - Updated packages:
   - `sudo apt update`
