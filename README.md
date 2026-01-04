@@ -118,5 +118,4 @@ Fail2ban watched authentication logs for repeated failed logins and automaticall
 - ✅ Firewall rules restricted to 22/80/443
 - ✅ Fail2ban active and monitoring SSH logs
 
----
 
