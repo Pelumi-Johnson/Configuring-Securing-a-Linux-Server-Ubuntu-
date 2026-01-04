@@ -2,7 +2,7 @@
 ---
 
  📄 **Full Lab Report:**  
-👉 [Click here to open the complete lab report](https://github.com/Pelumi-Johnson/Don-associates-cloud-migration/blob/main/Executive%20Summary%20Template%20(4)%20(1).docx.pdf)
+👉 [Click here to open the complete lab report](https://github.com/Pelumi-Johnson/Configuring-Securing-a-Linux-Server-Ubuntu-/blob/main/Project%202%20Submission%20Template%20(2).pdf)
 
 ### 🛡️ Secure Linux Server Build (Apache • SSH Hardening • UFW • Fail2ban)
 Hands-on project where I configured an Ubuntu Linux server to host a web page, enabled secure remote administration, locked down network access with firewall rules, and implemented automated intrusion prevention through log monitoring.
